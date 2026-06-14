@@ -13,6 +13,7 @@ print ("Word count: ", len(text.split()))
 print("Charcter count: ", len(text))
 
 if text == text[::-1]:  #Compares the original string with its reversed version, If it is same the text is a palindrome.
+    
     print("Palindrome")
 else:
     print("Not Palindrome")   
