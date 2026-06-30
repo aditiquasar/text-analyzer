@@ -50,9 +50,12 @@ Palindrome
 - GitHub: [@aditiquasar](https://github.com/aditiquasar)
 - LinkedIn: [Connect with me on LinkedIn](https://www.linkedin.com/in/aditiquasar/)
 - Email: work.aditi.s.dubey@gmail.com
+## Contact
+
+- GitHub: [@aditiquasar](https://github.com/aditiquasar)
+- LinkedIn: [Connect with me on LinkedIn](https://www.linkedin.com/in/aditiquasar/)
+- Email: work.aditi.s.dubey@gmail.com
 
 Author
-
 Aditi
 (Student)
-
